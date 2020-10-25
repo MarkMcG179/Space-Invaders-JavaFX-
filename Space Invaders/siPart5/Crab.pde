@@ -44,10 +44,6 @@ public class Crab extends Alien
       return false;
   }
   
-  //
-  // Add your code ABOVE this method
-  //
-  
   public void display() // CAREFUL HOW YOU MODIFY THIS CODE!!
   {
     fill(Game.ALIEN_COLOUR_WHITE);
