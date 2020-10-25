@@ -1,4 +1,4 @@
-             class InvalidLineNumberException extends Exception
+class InvalidLineNumberException extends Exception
 {  
   public InvalidLineNumberException()
   {
