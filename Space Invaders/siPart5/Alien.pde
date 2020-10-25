@@ -8,7 +8,7 @@ public class Alien extends SpaceObject
   {
     super(line, x, line.getLineY(), 1);
   }
-  public void display()  // this display is NOT used (yet)
+  public void display()  
   {
     fill(Game.ALIEN_COLOUR_WHITE);
     stroke(153);
